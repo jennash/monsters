@@ -1,0 +1,37 @@
+<?xml version="1.0" ?> 
+<level>
+<number>1<number>
+<world>1</world>
+<layout>path</to> 
+<background>path</background> 
+
+<enemies>
+	<enemy>
+		<id></id>
+		<sprite></sprite>
+	</enemy>
+</enemies>
+
+<keys>
+	<key>
+		<location></location>
+		<value></value>	
+		<sprite></sprite>
+	</key>
+	<key>
+		<location></location>
+		<value></value>	
+		<sprite></sprite>
+	</key>
+</keys>
+
+<coins>
+	<coin>
+		<location></location>
+		<value></value>	
+		<sprite></sprite>
+	</coin>
+<coins>
+		
+
+</level>
